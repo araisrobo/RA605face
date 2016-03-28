@@ -41,7 +41,7 @@ ApplicationWindow {
         id: connectionWindow
 
         anchors.fill: parent
-        defaultTitle: "VBCface"
+        defaultTitle: "RA605face"
         autoSelectInstance: false
         autoSelectApplication: false
         localVisible: true
